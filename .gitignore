@@ -1,0 +1,10 @@
+.DS_Store
+Icon?
+/Tools
+/Commands
+/Installation
+install * OSX Big Sur
+install * OSX Monterey
+
+smbios.txt
+version
