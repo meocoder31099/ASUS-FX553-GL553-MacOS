@@ -5,6 +5,7 @@
 
 1) Copy EFI folder from release zip to your EFI volume
 2) Reboot, reset NVRam & Enjoy
+3) After installation I recommend Mapping your USB ports following these instructions: [USB Mapping](https://dortania.github.io/OpenCore-Post-Install/usb/). You also need to remove from EFI the files __/EFI/OC/ACPI/SSDT-UIAC.aml__, __/EFI/OC/Kexts/USBInjectAll.kext__ and update the __config.plist__ again after adding your own USB port mapping.
 
 ## Hardware
 
