@@ -61,7 +61,7 @@
     <tr>
       <td>Card Reader</td>
       <td>RTS5229 PCI Express</td>
-      <td>NO</td>
+      <td>Unkown</td>
     </tr>
     <tr>
       <td>WebCam</td>
